@@ -1,4 +1,1 @@
-radar_presentation
-==================
-
-Examples of modeling Continuous Wave Radar using Python
+Source files from a presentation entitled "Modelling Continuous Wave Radar".
